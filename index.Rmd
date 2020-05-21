@@ -1,0 +1,11 @@
+--- 
+title: "Tidy Data to Solve Economic & Social Problems"
+author: "Seamus McKinsey"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+description: "This is a tidy implementation of the course notes and project for 'Using Big Data to Solve Economic and Social Problems' by Raj Chetty at Harvard Opportunity Insights (https://opportunityinsights.org/course/)."
+---
